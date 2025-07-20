@@ -1,0 +1,11 @@
+h5py==3.14.0
+lz4==4.4.4
+numpy==2.3.1
+pillow==11.3.0
+rosbags==0.10.10
+ruamel.yaml==0.18.14
+ruamel.yaml.clib==0.2.12
+tqdm==4.67.1
+typing_extensions==4.14.1
+zstandard==0.23.0
+h264decoder @ git+https://github.com/DaWelter/h264decoder.git@67fb7589bd0ce5e7e5907246432ae88f2161cf1b

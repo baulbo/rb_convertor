@@ -1,0 +1,25 @@
+# macos
+.DS_Store
+
+# vim
+*.swp
+
+# python
+__pycache__/
+venv/
+
+# datasets
+data/
+*.bag
+*.mp4
+*.hdf5
+*.h5
+*.png
+*.jpeg
+*.jpg
+images/
+
+# old files to be kept locally
+archive/*
+temp*
+
