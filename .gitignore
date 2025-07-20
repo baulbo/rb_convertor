@@ -9,7 +9,6 @@ __pycache__/
 venv/
 
 # datasets
-data/
 *.bag
 *.mp4
 *.hdf5
